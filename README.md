@@ -1,2 +1,2 @@
 # dc_bot
-A private repo of dc_bot based on python.
+A private repo of dc_bot based on python.ljjkjk
